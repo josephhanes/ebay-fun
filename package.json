@@ -1,0 +1,23 @@
+{
+  "name": "ebay-fun",
+  "version": "0.0.5",
+  "description": "ebay image processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephhanes/ebay-fun.git"
+  },
+  "author": "Joe Hanes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephhanes/ebay-fun/issues"
+  },
+  "homepage": "https://github.com/josephhanes/ebay-fun#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pm2": "^3.5.1"
+  }
+}
